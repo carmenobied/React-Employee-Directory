@@ -1,8 +1,7 @@
 import React from "react";
-import "./header.css";
+import "./Header.css";
 
-
-function Header() {
+const Header = () => {
   return (
     <div className="jumbotron jumbotron-fluid header">
       <div className="container">

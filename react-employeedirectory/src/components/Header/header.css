@@ -1,8 +1,9 @@
 .header {
     text-align: center;
     background-color:black;
+    padding: 1rem;
     color: goldenrod;
-    border-bottom: solid 8px;
+    border-bottom: solid 6px;
     border-color: goldenrod;
-    outline:black solid 5px;
+    outline:black solid 10px;
   }
