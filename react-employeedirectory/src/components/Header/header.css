@@ -1,0 +1,8 @@
+.header {
+    text-align: center;
+    background-color:black;
+    color: goldenrod;
+    border-bottom: solid 8px;
+    border-color: goldenrod;
+    outline:black solid 5px;
+  }
