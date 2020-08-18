@@ -2,7 +2,7 @@
 
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-The goal was to create an employee directory using React.js. This involved breaking up your application's UI into components, managing component state, and responding to user events.
+The goal was to create an employee directory using React.js. This involved breaking up your application's UI into components, managing component state, and responding to user events. 
 
 # Table of Contents
   * [User Story](#User-Story)
@@ -24,14 +24,22 @@ SO THAT I have quick access to their information.
 i. Fork the Github repository.
 ii. Clone the forked repo into your local machine using gitbash/terminal to pull the project and data.
 iii. Run the command-lines to run the app functionality. You can also access the files and assets via Visual Studio to view the code. 
-iv. Explore the app.
+iv. 1. npm install create-react-app // 2. npm install axios // 3. cd react app && npm start
+v. Explore the app.
 ```
 
 ## Usage
 ```
 Technologies Used:
-React.js - ReactDOM.render - components - state - props - classes - hooks - axios
+React.js - ReactDOM.render - components - state - props - classes - hooks - axios - Random Users API
 ```
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
+Given a table of random users, when the user loads the page, a table of employees should render. 
+
+The user should be able to:
+  * Sort the table by at least one category
+  * Filter the users by at least one property.
 
 ## Contributing
 Pull requests are welcome. Please use the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md) and for major changes, please open an issue beforehand to discuss the changes.
