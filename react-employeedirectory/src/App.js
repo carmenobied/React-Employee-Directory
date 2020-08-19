@@ -1,5 +1,5 @@
 import React from "react";
-import EmployeeDirectory from "./pages/employeeDirectory";
+import EmployeeDirectory from "./pages/EmployeeDirectory";
 import "./App.css"
 
 const App = () => {
