@@ -12,6 +12,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
+  "homepage": "https://github.com/carmenobied/React-Employee-Directory",
 	"engines": {
 		"npm": "5.7.1",
 		"node": "9.5.0"
