@@ -4,6 +4,8 @@
 
 The goal was to create an employee directory using React.js. This involved breaking up your application's UI into components, managing component state, and responding to user events. 
 
+Explore the application here: [Live App](https://stark-temple-41888.herokuapp.com/)
+
 # Table of Contents
   * [User Story](#User-Story)
   * [Installation](#Installation)
