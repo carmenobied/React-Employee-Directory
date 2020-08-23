@@ -8,10 +8,10 @@ import Footer from "../components/Footer/index";
 
 class EmployeeDirectory extends Component {
   state = {
-    results: [],
     search: "",
     ascending: "",
     location: "",
+    results: []
   };
 
   // When the component mounts, load available employees to be displayed

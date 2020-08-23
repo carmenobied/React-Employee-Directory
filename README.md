@@ -7,6 +7,7 @@ The goal was to create an employee directory using React.js. This involved break
 # Table of Contents
   * [User Story](#User-Story)
   * [Installation](#Installation)
+  * [Deployed](#Deployed)
   * [Usage](#Usage)
   * [Contributing](#Contributing)
   * [License](#License)
@@ -24,9 +25,14 @@ SO THAT I have quick access to their information.
 i. Fork the Github repository.
 ii. Clone the forked repo into your local machine using gitbash/terminal to pull the project and data.
 iii. Run the command-lines to run the app functionality. You can also access the files and assets via Visual Studio to view the code. 
-iv. 1. npm install create-react-app // 2. npm install axios // 3. cd react app && npm start
+iv. 1. npm install // 2. npm start
 v. Explore the app.
 ```
+## Deployed
+Deployed application in Heroku: [Live App](https://stark-temple-41888.herokuapp.com/)
+
+* Below is screenshot of the application:
+![Directory Screenshot](./assets/DirectoryScreenshot.png)
 
 ## Usage
 ```
